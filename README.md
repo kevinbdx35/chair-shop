@@ -1,6 +1,6 @@
 # chair-shop
 
-This is simple rotation menu design 
+This is a website to train with design web
 
 ## Table of contents
 
@@ -51,8 +51,8 @@ No API
 
 ## Source
 
-- Idea from Brad Traversy and Florin Pop
-- Picture from Unsplash
+- Idea from Jonas Schmedtmann
+- Picture from Jonas Schmedtmann
 
 
 ## License
